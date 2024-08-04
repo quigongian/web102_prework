@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/9j5pkod.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 
